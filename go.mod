@@ -2,7 +2,7 @@ module github.com/rootblack45/gocqlastra
 
 go 1.19
 
-require github.com/gocql/gocql v1.5.2
+require github.com/gocql/gocql v1.6.0
 
 require (
 	github.com/golang/snappy v0.0.3 // indirect
